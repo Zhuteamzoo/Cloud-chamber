@@ -24,30 +24,54 @@ This allows more muons to **survive the journey** from the upper atmosphere to t
 
 ##  Simple Estimation
 
-- **Muon lifetime at rest:** 2.2 × 10⁻⁶ s  
-- **Muon velocity:** ~0.998c  
-- **Distance from upper atmosphere (~10 km):**  
-  \[
-  t = \frac{d}{v} \approx \frac{10,000\ \text{m}}{3 × 10^8\ \text{m/s}} \approx 3.3 × 10^{-5}\ \text{s}
-  \]
-This is about **15 times longer** than a muon’s proper lifetime.  
-Without time dilation, almost all muons should decay before reaching the ground.
+- **Muon lifetime at rest:** 2.2 μs  
+- **Muon velocity:** ~0.998 c  
+- **Distance from upper atmosphere:** 10 km
 
-But **special relativity predicts** that:
-\[
-t_{\text{earth}} = \gamma × t_{\text{proper}}
-\]
-where
-\[
-\gamma = \frac{1}{\sqrt{1 - (v^2 / c^2)}}
-\]
-For v ≈ 0.998c, γ ≈ 15.8.
+The time it would take a muon to travel from 10 km above the Earth’s surface at the speed of light is:
 
-So:
 \[
-t_{\text{earth}} = 2.2\ \mu s × 15.8 \approx 34.8\ \mu s
+t = \frac{d}{v} = \frac{10\,000\ \text{m}}{3 \times 10^8\ \text{m/s}}
+  \approx 3.3 \times 10^{-5}\ \text{s} \ (33\ \mu s)
 \]
-This is enough time for muons to travel 10 km and reach the surface.
+
+The **proper lifetime** of a muon is:
+
+\[
+t_0 = 2.2 \times 10^{-6}\ \text{s}
+\]
+
+This is much shorter than the time needed to reach the ground — meaning almost no muons should survive to be detected.
+
+---
+
+##  Applying Special Relativity
+
+The time dilation factor is:
+
+\[
+\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}
+\]
+
+For \( v \approx 0.998\,c \):
+
+\[
+\gamma \approx 15.8
+\]
+
+The dilated lifetime observed on Earth is:
+
+\[
+t_{\text{Earth}} = \gamma \times t_0
+\]
+
+\[
+t_{\text{Earth}} = 15.8 \times 2.2 \times 10^{-6}\ \text{s}
+\approx 34.8 \times 10^{-6}\ \text{s}
+\ (34.8\ \mu s)
+\]
+
+This **matches closely** with the 33 μs required for the muons to reach the ground, which explains why they can be detected at the surface.
 
 ---
 
