@@ -1,6 +1,6 @@
-# 🧠 Hypothesis: Detecting Muons with a Cloud Chamber to Demonstrate Special Relativity
+#  Hypothesis: Detecting Muons with a Cloud Chamber to Demonstrate Special Relativity
 
-## ✨ Introduction
+##  Introduction
 This project aims to detect **muons** using a homemade cloud chamber as a way to provide **real-world evidence of special relativity**.  
 Muons are elementary particles created high in Earth’s atmosphere when **cosmic rays** collide with air molecules.  
 They travel toward the ground at speeds very close to the **speed of light (c)**.  
@@ -8,7 +8,7 @@ They travel toward the ground at speeds very close to the **speed of light (c)**
 However, the **mean lifetime of a muon at rest** is only about **2.2 microseconds**.  
 Even at the speed of light, that is not enough time for them to reach the Earth’s surface — and yet, **we detect them here**.
 
-## ⏳ The Core Idea
+##  The Core Idea
 If **special relativity is correct**, then moving muons should experience **time dilation** — their lifetime appears longer to us (observers on Earth).  
 This allows more muons to **survive the journey** from the upper atmosphere to the surface.
 
@@ -22,7 +22,7 @@ This allows more muons to **survive the journey** from the upper atmosphere to t
 
 ---
 
-## 🧮 Simple Estimation
+##  Simple Estimation
 
 - **Muon lifetime at rest:** 2.2 × 10⁻⁶ s  
 - **Muon velocity:** ~0.998c  
@@ -51,7 +51,7 @@ This is enough time for muons to travel 10 km and reach the surface.
 
 ---
 
-## ☁️ Experimental Hypothesis
+##  Experimental Hypothesis
 If **special relativity is correct**, then:
 - My cloud chamber **should detect muon tracks** at ground level.  
 - These tracks are evidence of **muons that have lived longer** than their rest lifetime, due to **time dilation**.
@@ -64,7 +64,7 @@ If **special relativity is correct**, then:
 
 ---
 
-## 🧪 Experimental Test
+##  Experimental Test
 - Build a diffusion cloud chamber.  
 - Create a **supersaturated alcohol vapor** layer using dry ice and isopropyl alcohol.  
 - Wait for cosmic ray muons to pass through the chamber.  
@@ -72,14 +72,14 @@ If **special relativity is correct**, then:
 
 ---
 
-## 📊 Expected Results
+##  Expected Results
 - Observation of visible **muon trails** in the chamber.  
 - These tracks should appear spontaneously without any local radiation source.  
 - Each track represents a muon that **traveled from the upper atmosphere to the detector** — something only possible if its **lifetime was extended** in the Earth’s frame of reference.
 
 ---
 
-## 🧠 Conclusion
+##  Conclusion
 Muon detection with a simple cloud chamber serves as an elegant, small-scale way to observe **relativistic time dilation**.  
 By finding muon tracks in my experiment, I can **confirm that their apparent lifetime is extended** when moving at near-light speeds.  
 
