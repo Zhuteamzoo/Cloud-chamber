@@ -22,5 +22,6 @@ After changing the weight distribution, gas leakage was reduced and the cloud ch
 This problem taught me that engineering solutions often involve tradeoffs. Increasing force is not always the answer — distributing it intelligently can be more effective.
 
 **Video Reference**
+https://www.youtube.com/watch?v=imbXzkngRTg
 - No added weight (gas leakage visible): 0:40  
 - Weight placed at center causing strain: 0:43  
